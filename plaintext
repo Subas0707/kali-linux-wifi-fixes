@@ -1,0 +1,16 @@
+# Compiled binary files
+*.exe
+*.o
+*.out
+
+# Dependency directories
+node_modules/
+vendor/
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+
+# Configuration files with sensitive information (example)
+config.ini
+.env
