@@ -17,3 +17,7 @@ sudo ip link set wlan0mon name wlan0
 
 # Bring wlan0 interface up
 sudo ip link set wlan0 up
+```
+### Solution 2: Restart Network Manager
+```bash
+sudo systemctl restart NetworkManager
