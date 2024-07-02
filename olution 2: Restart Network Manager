@@ -1,0 +1,2 @@
+### Solution 2: Restart Network Manager
+sudo systemctl restart NetworkManager
